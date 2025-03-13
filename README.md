@@ -51,10 +51,10 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/daniel-martínez-developer" target="_blank">
+  <a href="https://www.linkedin.com/in/daniel-martínez-developer" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="jobs@danielmartinezdeveloper.com" target="_blank">
+  <a href="mailto:jobs@danielmartinezdeveloper.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
