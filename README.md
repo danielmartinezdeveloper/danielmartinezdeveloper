@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desarrollador Multiplataforma, actualmente realizando la formación en centros de trabajo como Desarrollador Java. <br><br>Con experiencia en compañías en el sector de desarrollo realizando el puesto de Desarrollador Wordpress, superado el proceso de selección de Campus 42 Telefónica (Madrid)<br><br>Proyectos desarrollados en Java, Springboot, C# y Flutter conectados a servidores VPS creados y configurados para la disponibilidad total de los mismos.<br><br>Interesado en los servicios en la nube y el análisis de datos, lenguajes como R y Python además de  herramientas como Power BI y Looker Studio.</p>
+<p align="left">Desarrollador Multiplataforma, actualmente realizando la formación en centros de trabajo como Desarrollador Java. <br><br>Con experiencia en compañías en el sector de desarrollo realizando el puesto de Desarrollador Wordpress, superado el proceso de selección de Campus 42 Telefónica (Madrid)<br><br>Proyectos desarrollados en Java, Springboot, C# y Flutter conectados a servidores VPS creados y configurados para la disponibilidad total de los mismos.<br><br>Interesado en los servicios en la nube y el análisis de datos, utilizando herramientas como Power BI y Looker Studio.</p>
 
 ###
 
